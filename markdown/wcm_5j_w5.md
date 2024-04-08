@@ -63,3 +63,9 @@ Author: 51233105
 5.創新教學方法和工具： AI 技術可以促進教育方法和工具的創新和改進。例如，虛擬班級、增強現實技術、自主學習平台等新型教學工具可以透過 AI 技術提供更豐富、更生動的學習體驗。
 
 請利用網路搜尋上列問題的可能回應資料, 篩選認為有用的資料放入個人的課程網站中, 並回報到課程倉儲的【討論區】(https://github.com/mdecycu/wcm2024/discussions/1)
+
+影片連結
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e6dEy5SfDoQ?si=yyti-Iv5Mg15qZO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e6dEy5SfDoQ?si=fDeB06y-AbKKTHE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
