@@ -65,11 +65,7 @@ Author: 51233105
 
 請利用網路搜尋上列問題的可能回應資料, 篩選認為有用的資料放入個人的課程網站中, 並回報到課程倉儲的【討論區】(https://github.com/mdecycu/wcm2024/discussions/1)
 
-影片連結
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ndxVz3gaVvs?si=_SzmwicQXrvQAEOv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CBJ6mhGZEo0?si=kvuRMBOt1kQZ4poJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+第二週的所有內容
 
 5j,Github 帳號,組別 第十週
 連結化
