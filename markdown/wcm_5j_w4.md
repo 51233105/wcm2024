@@ -1,6 +1,6 @@
 ---
 Title: WCM 五專第四週課程內容
-Date: 2024-05-27 15:00
+Date: 2024-03-11 15:00
 Category: 五專
 Tags: Chatgpt, w4
 Slug: wcm-5i-w4
