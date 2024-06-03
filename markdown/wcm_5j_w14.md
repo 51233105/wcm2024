@@ -11,4 +11,6 @@ Author: 51233105
 
 <!-- PELICAN_END_SUMMARY -->
 
+啟動並執行網際猜數字遊戲
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/txEdPwxCuLM?si=Fjy7Tb5epfNob7A5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
