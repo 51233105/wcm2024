@@ -11,7 +11,7 @@ Author: 51233105
 
 <!-- PELICAN_END_SUMMARY -->
 
-5j,Github 帳號,組別 第十週
+5j,所有同學Github 帳號,組別 第十週
 連結化
 
 51233101:<a href="https://github.com/Chen-Yi-jing/wcm2024">倉儲</a> | <a href="https://Chen-Yi-jing.github.io/wcm2024">網站</a>

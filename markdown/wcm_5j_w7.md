@@ -10,3 +10,9 @@ Author: 51233105
 第七週的所有內容
 
 <!-- PELICAN_END_SUMMARY -->
+
+利用 Python 建立 Javascript 電子書的單字查詢超文件
+
+利用 2.txt 與 1.txt Python 程式, 從下列電子書建立英文單字查詢網頁:
+
+2023 Programming for Absolute Beginners - Using the JavaScript Programming Language
